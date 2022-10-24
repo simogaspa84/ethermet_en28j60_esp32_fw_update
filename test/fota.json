@@ -2,5 +2,5 @@
     "type": "esp32-fota-http",
     "version": "1.1",
     "port": 443,
-    "url": "https://systelfota.000webhostapp.com/update.bin?raw=true"
+    "url": "/simogaspa84/ethermet_en28j60_esp32_fw_update/blob/test/update.bin?raw=true"
 }
