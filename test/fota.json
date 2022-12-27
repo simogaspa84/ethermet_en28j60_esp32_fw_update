@@ -1,0 +1,6 @@
+{
+    "type": "esp32-fota-http",
+    "version": "1.1",
+    "port": 443,
+    "url": "https://github.com/simogaspa84/ethermet_en28j60_esp32_fw_update/raw/main/test/update.img"
+}
