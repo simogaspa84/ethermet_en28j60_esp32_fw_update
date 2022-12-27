@@ -1,6 +1,7 @@
 version: 2.1
 orbs:
   python: circleci/python@1.4.0
+  jira: circleci/jira@1.0.5
 
 jobs:
   build:
