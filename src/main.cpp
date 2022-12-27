@@ -65,8 +65,8 @@ void setup()
 
   Serial.print("Joined LAN with IP ");
   Serial.println(Ethernet.localIP());
-  Serial.flush()
-      delay(200);
+  Serial.flush();
+  delay(200);
   Serial.println("HTTP server started");
 
   ArduinoOTA.begin(Ethernet.localIP(), "systel", "lab2022", InternalStorage);
